@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* 1st main section */
+
+.happy-new-year-image {
+    position: relative;
+}
+
+.happy-new-year-image img {
+    max-width: 100%;
+    height: 400px;
+    align-items: center;
+    padding-left: 200px;
+    color-scheme: dark;
+    opacity: 1;
+}
+
+.new-year-card-text {
+    position: absolute;
+    top: 30%;
+    padding-left: 500px;
+    margin-left: 200px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding-left: 300px;
+}
+
+
+/* 2nd main section */
+
+.second-bannar {
+    padding-left: 500px;
+    padding-top: 50px;
+}
+
+.second-bannar-text h1 {
+    color: red;
+}
+
+.second-bannar-text p {
+    color: red;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.second-bannar-pic img {
+    padding-top: 25px;
+    max-width: 100%;
+    height: 200px;
+}
+
+
+/* party section */
+
+.midnight-party {
+    position: relative;
+    padding-top: 50px;
+}
+
+.midnight-party img {
+    max-width: 100%;
+    height: 400px;
+    align-items: center;
+    padding-left: 200px;
+    color-scheme: dark;
+    opacity: 1;
+}
+
+.party-text h1 {
+    padding-bottom: 10px;
+}
+
+.party-text {
+    position: absolute;
+    top: 40%;
+    padding-left: 20px;
+    margin-left: 200px;
+    color: white;
+}
+
+.party-text button {
+    margin: 25px;
+    padding: 5px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+}
