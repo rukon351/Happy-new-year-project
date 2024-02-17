@@ -90,3 +90,58 @@
     color: aliceblue;
     border-radius: 5px;
 }
+
+/* gift photo section */
+
+/* .gift-photo-div {
+    display: flex;
+} */
+
+.gift-photo-div {
+    padding-left: 200px;
+    padding-top: 25px;
+}
+
+.gift-photo-one {
+    display: flex;
+}
+
+.gift-photo-one img {
+    width: 300px;
+    padding: 10px;
+}
+
+
+.gift-photo-text {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.gift-photo-text p {
+    color: red;
+}
+
+.gift-photo-text small {
+    color: black;
+}
+
+
+.newsletter img {
+    /* padding-left: 20px; */
+    padding-top: 20px;
+    width: 100px;
+}
+
+.newsletter {
+    text-align: center;
+}
+
+.newsletter h1 {
+    padding: 10px;
+}
+
+.form {
+    /* padding: 10px;
+    margin: 10px; */
+    border: 2px solid black;
+}
